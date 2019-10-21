@@ -1,7 +1,7 @@
 +++
 title = "Hugo-Webslides"
 +++
-: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg
+<!-- : .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
 
 
 ## **Hugo-Webslides**
